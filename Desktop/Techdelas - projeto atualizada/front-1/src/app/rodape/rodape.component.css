@@ -1,0 +1,46 @@
+.bg-rodape
+ {
+
+background-image: linear-gradient(#f8efc0,  #AD5748);
+
+ }
+
+
+ .bg-cop{
+
+  background-color: #3B3537;
+ }
+
+ul.social-network{
+
+  list-style: none;
+  padding: 0;
+}
+
+ul.social-network li{
+
+  display: inline;
+  margin: 0;
+  padding: 5px;
+}
+.fa{
+
+  font-size: 35pt;
+color: white;
+padding: 10px;
+
+}
+.fa-facebook-square:hover{
+  color:darkcyan;
+
+}
+.fa-instagram:hover{
+
+color: crimson;
+}
+h4{
+
+  font-family:'Courier New', Courier, monospace;
+
+
+}
